@@ -1,6 +1,7 @@
 Setup vue with vite
 
 https://inertiajs.com/server-side-setup
+
 ~ composer require inertiajs/inertia-laravel
 ~ php artisan inertia:middleware
 
