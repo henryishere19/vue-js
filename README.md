@@ -21,3 +21,6 @@ Copy content
 - tailwind.config.js
 - resources/js/app.js
 - resources/js/css.js
+
+
+https://tailwindcss.com/docs/guides/laravel
