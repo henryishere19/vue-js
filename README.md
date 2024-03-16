@@ -12,7 +12,7 @@ https://inertiajs.com/server-side-setup
 
 ~ npm install -D tailwindcss postcss autoprefixer
 
-~ npx tailwindcss init
+~ npx tailwindcss init -p
 
 rename - welcome.blade.php to app.blade.php
 
